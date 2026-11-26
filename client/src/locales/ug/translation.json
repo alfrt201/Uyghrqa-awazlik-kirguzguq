@@ -1,0 +1,15 @@
+{
+  "com_ui_qwen_realtime_start": "ئۇيغۇرچە ئاۋازنى نەق مەيداندا يېزىققا ئايلاندۇرۇشنى باشلاش",
+  "com_ui_local_uyghur_start": "يەرلىك ئۇيغۇرچە ئاۋاز كىرگۈزۈشنى باشلاش",
+  "com_ui_local_uyghur_stop": "يەرلىك ئۇيغۇرچە ئاۋاز كىرگۈزۈشنى توختىتىش",
+  "com_ui_local_uyghur_processing": "يەرلىكتە ئاۋاز تونۇۋاتىدۇ…",
+  "com_ui_local_uyghur_sample_title": "بۇ ئاۋازنى تەكشۈرۈپ، مەشىق ئەۋرىشكىسى قىلىپ ساقلاش",
+  "com_ui_local_uyghur_sample_description": "ئاستىدىكى ئۇيغۇرچە تېكىستنى تۈزىتىپ، توغرا بولغاندىن كېيىن ساقلاڭ. ئاۋاز بىلەن تېكىست LibreChat ئىجرا بولۇۋاتقان كومپيۇتېردا ساقلىنىدۇ. ساقلاش مودېلنى دەرھال مەشىق قىلمايدۇ؛ كېيىنكى قېتىم ئاۋاز يېزىشتىن بۇرۇن بۇنى ساقلاڭ ياكى تاشلىۋېتىڭ.",
+  "com_ui_local_uyghur_sample_transcript": "تۈزىتىلگەن ئۇيغۇرچە تېكىست",
+  "com_ui_local_uyghur_sample_save": "يەرلىك ئەۋرىشكىنى ساقلاش",
+  "com_ui_local_uyghur_sample_saving": "ساقلاۋاتىدۇ…",
+  "com_ui_local_uyghur_sample_discard": "تاشلىۋېتىش",
+  "com_ui_local_uyghur_sample_saved": "مەشىق ئەۋرىشكىسى بۇ كومپيۇتېردا ساقلاندى",
+  "com_ui_qwen_realtime_starting": "نەق مەيدان ئاۋاز يېزىققا ئايلاندۇرۇشقا ئۇلىنىۋاتىدۇ…",
+  "com_ui_qwen_realtime_stop": "نەق مەيدان ئۇيغۇرچە ئاۋاز يېزىققا ئايلاندۇرۇشنى توختىتىش"
+}
